@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container{
+   width: 50%;
+   display: flex;
+   background-color: aqua;
+   color: aliceblue;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+}
